@@ -1,19 +1,16 @@
-# Python 
+#Python 
 __pycache__/
 *.py[cod]
 *$py.class
 .pytest_cache/
+.vscode/
 
-# Ambientes Virtuais 
+#Ambientes 
 venv/
 env/
 .env
 
-# VS Code 
-.vscode/
-
-# Rascunhos 
+#Rascunhos 
 drafts/
-
 .DS_Store
 thumbs.db

@@ -1,6 +1,4 @@
-# Analisador de Similaridade de Textos para TCC 🎓
-
-Este repositório contém o protótipo funcional de um **Sistema de Análise de Similitude Textual**, desenvolvido como parte integrante do meu Trabalho de Conclusão de Curso (TCC). 
+Este repositório contém o protótipo funcional de um **Sistema de Comparação de Conteúdo de Textos**, desenvolvido como parte integrante do meu Trabalho de Conclusão de Curso (TCC). 
 
 O sistema utiliza técnicas de **Processamento de Linguagem Natural (PLN)** para calcular o nível de correlação entre dois documentos de texto.
 
