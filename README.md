@@ -29,7 +29,11 @@ O projeto foi construído seguindo princípios de **Clean Code** e **Design Patt
 
 ```text
 TCC/
-├── datasets/            # Amostras (.txt) 
+├── datasets/            # Ambiente de Benchmarks 
+│   ├── benchmark_01/    # Cenário: Divergência Total (Ortogonalidade)
+│   ├── benchmark_02/    # Cenário: Paráfrase Técnica (Âncoras Temáticas)
+│   ├── benchmark_03/    # Cenário: Similaridade Crítica (Alerta de Auditoria)
+│   └── README.md        # Documentação dos datasets
 ├── engine/              # sistema analítico
 │   ├── core.py          # vetorização e métricas matemáticas
 │   ├── handlers.py      # Factory Pattern para múltiplos formatos
