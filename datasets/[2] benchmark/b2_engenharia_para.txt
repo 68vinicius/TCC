@@ -1,0 +1,1 @@
+Utilizar uma estrutura baseada em microserviços possibilita maior autonomia na criação e no deploy de módulos de software. Essa abordagem minimiza a interdependência (acoplamento) sistêmica e favorece o crescimento escalonado (escalabilidade) em ambientes nuvem.

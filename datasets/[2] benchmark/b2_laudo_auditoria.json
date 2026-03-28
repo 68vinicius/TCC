@@ -1,0 +1,8 @@
+{
+    "cosseno": 0.0,
+    "jaccard": 0.18575851393188855,
+    "t1_limpo": "a arquitetura de microservi\u00e7os permite que as equipes desenvolvam e implantem componentes de software de forma independente isso reduz o acoplamento e facilita a escalabilidade horizontal de sistemas complexos em nuvem",
+    "t2_limpo": "utilizar uma estrutura baseada em pequenos servi\u00e7os independentes possibilita maior autonomia na cria\u00e7\u00e3o e no deploy de m\u00f3dulos essa abordagem minimiza a interdepend\u00eancia sist\u00eamica e favorece o crescimento escalonado em ambientes cloud",
+    "tempo": 0.0020480000021052547,
+    "status": "success"
+}

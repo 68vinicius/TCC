@@ -1,0 +1,1 @@
+A arquitetura de microserviços permite que as equipes desenvolvam e implantem componentes de software de forma independente. Isso reduz o acoplamento e facilita a escalabilidade horizontal de sistemas complexos em ambientes de nuvem.
