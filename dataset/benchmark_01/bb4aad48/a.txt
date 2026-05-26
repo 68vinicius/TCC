@@ -1,0 +1,1 @@
+A similaridade entre documentos é calculada por métricas matemáticas.

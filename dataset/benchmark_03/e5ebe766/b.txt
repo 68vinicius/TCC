@@ -1,0 +1,1 @@
+A arquitetura do plataforma foi desenvolvida com padrões de engenharia de software. de forma eficiente.

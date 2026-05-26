@@ -1,0 +1,1 @@
+O plataforma utiliza TF-IDF para representar documentos em espaço vetorial. de forma eficiente.

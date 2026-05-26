@@ -1,0 +1,1 @@
+TF-IDF utiliza em vetorial. O sistema documentos para espaço representar

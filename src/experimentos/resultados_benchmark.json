@@ -1,0 +1,2502 @@
+[
+    {
+        "benchmark": "benchmark_01",
+        "category": "identical",
+        "cosseno": 0.0,
+        "jaccard": 1.0,
+        "semantic": 0.0,
+        "tempo": 0.07212930000241613,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_01",
+        "category": "identical",
+        "cosseno": 0.0,
+        "jaccard": 1.0,
+        "semantic": 0.0,
+        "tempo": 0.05769560000044294,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_01",
+        "category": "identical",
+        "cosseno": 0.0,
+        "jaccard": 1.0,
+        "semantic": 0.0,
+        "tempo": 0.049300200000288896,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_01",
+        "category": "identical",
+        "cosseno": 0.0,
+        "jaccard": 1.0,
+        "semantic": 0.0,
+        "tempo": 0.05933759999606991,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_01",
+        "category": "identical",
+        "cosseno": 0.0,
+        "jaccard": 1.0,
+        "semantic": 0.0,
+        "tempo": 0.09271520000038436,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_01",
+        "category": "identical",
+        "cosseno": 1.0000000000000002,
+        "jaccard": 1.0,
+        "semantic": 0.0,
+        "tempo": 0.1023334999990766,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_01",
+        "category": "identical",
+        "cosseno": 0.0,
+        "jaccard": 1.0,
+        "semantic": 0.0,
+        "tempo": 0.05314329999964684,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_01",
+        "category": "identical",
+        "cosseno": 0.0,
+        "jaccard": 1.0,
+        "semantic": 0.0,
+        "tempo": 0.04465619999973569,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_01",
+        "category": "identical",
+        "cosseno": 0.0,
+        "jaccard": 1.0,
+        "semantic": 0.0,
+        "tempo": 0.050720699997327756,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_01",
+        "category": "identical",
+        "cosseno": 0.0,
+        "jaccard": 1.0,
+        "semantic": 0.0,
+        "tempo": 0.04682850000244798,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_01",
+        "category": "identical",
+        "cosseno": 1.0000000000000002,
+        "jaccard": 1.0,
+        "semantic": 0.0,
+        "tempo": 0.056068199999572244,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_01",
+        "category": "identical",
+        "cosseno": 0.0,
+        "jaccard": 1.0,
+        "semantic": 0.0,
+        "tempo": 0.05079510000359733,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_01",
+        "category": "identical",
+        "cosseno": 0.0,
+        "jaccard": 1.0,
+        "semantic": 0.0,
+        "tempo": 0.0497514999951818,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_01",
+        "category": "identical",
+        "cosseno": 0.0,
+        "jaccard": 1.0,
+        "semantic": 0.0,
+        "tempo": 0.046702100000402424,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_01",
+        "category": "identical",
+        "cosseno": 0.0,
+        "jaccard": 1.0,
+        "semantic": 0.0,
+        "tempo": 0.042191700005787425,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_01",
+        "category": "identical",
+        "cosseno": 0.0,
+        "jaccard": 1.0,
+        "semantic": 0.0,
+        "tempo": 0.05046489999949699,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_01",
+        "category": "identical",
+        "cosseno": 0.0,
+        "jaccard": 1.0,
+        "semantic": 0.0,
+        "tempo": 0.04932109999936074,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_01",
+        "category": "identical",
+        "cosseno": 0.0,
+        "jaccard": 1.0,
+        "semantic": 0.0,
+        "tempo": 0.04946550000022398,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_01",
+        "category": "identical",
+        "cosseno": 0.0,
+        "jaccard": 1.0,
+        "semantic": 0.0,
+        "tempo": 0.05218730000342475,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_01",
+        "category": "identical",
+        "cosseno": 0.0,
+        "jaccard": 1.0,
+        "semantic": 0.0,
+        "tempo": 0.04654149999987567,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_01",
+        "category": "identical",
+        "cosseno": 0.0,
+        "jaccard": 1.0,
+        "semantic": 0.0,
+        "tempo": 0.05773069999850122,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_01",
+        "category": "identical",
+        "cosseno": 0.0,
+        "jaccard": 1.0,
+        "semantic": 0.0,
+        "tempo": 0.05075360000046203,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_01",
+        "category": "identical",
+        "cosseno": 0.0,
+        "jaccard": 1.0,
+        "semantic": 0.0,
+        "tempo": 0.05163349999929778,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_01",
+        "category": "identical",
+        "cosseno": 1.0000000000000002,
+        "jaccard": 1.0,
+        "semantic": 0.0,
+        "tempo": 0.05959380000422243,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_01",
+        "category": "identical",
+        "cosseno": 0.0,
+        "jaccard": 1.0,
+        "semantic": 0.0,
+        "tempo": 0.04993510000349488,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_01",
+        "category": "identical",
+        "cosseno": 0.0,
+        "jaccard": 1.0,
+        "semantic": 0.0,
+        "tempo": 0.04910820000077365,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_01",
+        "category": "identical",
+        "cosseno": 0.0,
+        "jaccard": 1.0,
+        "semantic": 0.0,
+        "tempo": 0.05314280000311555,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_01",
+        "category": "identical",
+        "cosseno": 0.0,
+        "jaccard": 1.0,
+        "semantic": 0.0,
+        "tempo": 0.05760810000356287,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_01",
+        "category": "identical",
+        "cosseno": 0.0,
+        "jaccard": 1.0,
+        "semantic": 0.0,
+        "tempo": 0.04538689999753842,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_01",
+        "category": "identical",
+        "cosseno": 0.0,
+        "jaccard": 1.0,
+        "semantic": 0.0,
+        "tempo": 0.05360769999970216,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_01",
+        "category": "identical",
+        "cosseno": 0.0,
+        "jaccard": 1.0,
+        "semantic": 0.0,
+        "tempo": 0.05605360000481596,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_01",
+        "category": "identical",
+        "cosseno": 0.0,
+        "jaccard": 1.0,
+        "semantic": 0.0,
+        "tempo": 0.047141900002316106,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_01",
+        "category": "identical",
+        "cosseno": 1.0000000000000002,
+        "jaccard": 1.0,
+        "semantic": 0.0,
+        "tempo": 0.05271579999680398,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_01",
+        "category": "identical",
+        "cosseno": 0.0,
+        "jaccard": 1.0,
+        "semantic": 0.0,
+        "tempo": 0.05131569999502972,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_01",
+        "category": "identical",
+        "cosseno": 0.0,
+        "jaccard": 1.0,
+        "semantic": 0.0,
+        "tempo": 0.04622640000161482,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_01",
+        "category": "identical",
+        "cosseno": 0.0,
+        "jaccard": 1.0,
+        "semantic": 0.0,
+        "tempo": 0.059612199998809956,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_01",
+        "category": "identical",
+        "cosseno": 0.0,
+        "jaccard": 1.0,
+        "semantic": 0.0,
+        "tempo": 0.045281899998371955,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_01",
+        "category": "identical",
+        "cosseno": 0.0,
+        "jaccard": 1.0,
+        "semantic": 0.0,
+        "tempo": 0.04589050000504358,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_01",
+        "category": "identical",
+        "cosseno": 0.0,
+        "jaccard": 1.0,
+        "semantic": 0.0,
+        "tempo": 0.05164570000488311,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_01",
+        "category": "identical",
+        "cosseno": 0.0,
+        "jaccard": 1.0,
+        "semantic": 0.0,
+        "tempo": 0.058750600001076236,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_01",
+        "category": "identical",
+        "cosseno": 0.0,
+        "jaccard": 1.0,
+        "semantic": 0.0,
+        "tempo": 0.05898529999831226,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_01",
+        "category": "identical",
+        "cosseno": 0.0,
+        "jaccard": 1.0,
+        "semantic": 0.0,
+        "tempo": 0.0569515000024694,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_01",
+        "category": "identical",
+        "cosseno": 0.0,
+        "jaccard": 1.0,
+        "semantic": 0.0,
+        "tempo": 0.05835600000136765,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_01",
+        "category": "identical",
+        "cosseno": 1.0000000000000002,
+        "jaccard": 1.0,
+        "semantic": 0.0,
+        "tempo": 0.05269219999900088,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_01",
+        "category": "identical",
+        "cosseno": 1.0000000000000002,
+        "jaccard": 1.0,
+        "semantic": 0.0,
+        "tempo": 0.05233829999633599,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_01",
+        "category": "identical",
+        "cosseno": 0.0,
+        "jaccard": 1.0,
+        "semantic": 0.0,
+        "tempo": 0.05344589999731397,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_01",
+        "category": "identical",
+        "cosseno": 0.0,
+        "jaccard": 1.0,
+        "semantic": 0.0,
+        "tempo": 0.05318329999863636,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_01",
+        "category": "identical",
+        "cosseno": 0.0,
+        "jaccard": 1.0,
+        "semantic": 0.0,
+        "tempo": 0.05535349999991013,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_01",
+        "category": "identical",
+        "cosseno": 0.0,
+        "jaccard": 1.0,
+        "semantic": 0.0,
+        "tempo": 0.044539399998029694,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_01",
+        "category": "identical",
+        "cosseno": 0.0,
+        "jaccard": 1.0,
+        "semantic": 0.0,
+        "tempo": 0.05011700000613928,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_02",
+        "category": "paraphrase_heavy",
+        "cosseno": 0.0,
+        "jaccard": 0.08536585365853659,
+        "semantic": 0.0,
+        "tempo": 0.05422980000003008,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_02",
+        "category": "paraphrase_heavy",
+        "cosseno": 0.0,
+        "jaccard": 0.0,
+        "semantic": 0.0,
+        "tempo": 0.060244199994485825,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_02",
+        "category": "paraphrase_heavy",
+        "cosseno": 0.0,
+        "jaccard": 0.0125,
+        "semantic": 0.0,
+        "tempo": 0.051356400006625336,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_02",
+        "category": "paraphrase_heavy",
+        "cosseno": 0.0,
+        "jaccard": 0.0,
+        "semantic": 0.0,
+        "tempo": 0.05674859999999171,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_02",
+        "category": "paraphrase_heavy",
+        "cosseno": 0.0,
+        "jaccard": 0.010638297872340425,
+        "semantic": 0.0,
+        "tempo": 0.058412099999259226,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_02",
+        "category": "paraphrase_heavy",
+        "cosseno": 0.0,
+        "jaccard": 0.010638297872340425,
+        "semantic": 0.0,
+        "tempo": 0.0629004000002169,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_02",
+        "category": "paraphrase_heavy",
+        "cosseno": 0.0,
+        "jaccard": 0.08235294117647059,
+        "semantic": 0.0,
+        "tempo": 0.05291909999505151,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_02",
+        "category": "paraphrase_heavy",
+        "cosseno": 0.0,
+        "jaccard": 0.08235294117647059,
+        "semantic": 0.0,
+        "tempo": 0.051395700000284705,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_02",
+        "category": "paraphrase_heavy",
+        "cosseno": 0.0,
+        "jaccard": 0.08536585365853659,
+        "semantic": 0.0,
+        "tempo": 0.05637389999901643,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_02",
+        "category": "paraphrase_heavy",
+        "cosseno": 0.0,
+        "jaccard": 0.0,
+        "semantic": 0.0,
+        "tempo": 0.06016170000657439,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_02",
+        "category": "paraphrase_heavy",
+        "cosseno": 0.0,
+        "jaccard": 0.08536585365853659,
+        "semantic": 0.0,
+        "tempo": 0.059147899999516085,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_02",
+        "category": "paraphrase_heavy",
+        "cosseno": 0.0,
+        "jaccard": 0.010638297872340425,
+        "semantic": 0.0,
+        "tempo": 0.05260130000533536,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_02",
+        "category": "paraphrase_heavy",
+        "cosseno": 0.0,
+        "jaccard": 0.08235294117647059,
+        "semantic": 0.0,
+        "tempo": 0.05064639999909559,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_02",
+        "category": "paraphrase_heavy",
+        "cosseno": 0.0,
+        "jaccard": 0.0,
+        "semantic": 0.0,
+        "tempo": 0.05696949999401113,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_02",
+        "category": "paraphrase_heavy",
+        "cosseno": 0.0,
+        "jaccard": 0.08235294117647059,
+        "semantic": 0.0,
+        "tempo": 0.045857299999624956,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_02",
+        "category": "paraphrase_heavy",
+        "cosseno": 0.0,
+        "jaccard": 0.0,
+        "semantic": 0.0,
+        "tempo": 0.05243239999981597,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_02",
+        "category": "paraphrase_heavy",
+        "cosseno": 0.0,
+        "jaccard": 0.08536585365853659,
+        "semantic": 0.0,
+        "tempo": 0.050253400004294235,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_02",
+        "category": "paraphrase_heavy",
+        "cosseno": 0.0,
+        "jaccard": 0.08235294117647059,
+        "semantic": 0.0,
+        "tempo": 0.05025150000437861,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_02",
+        "category": "paraphrase_heavy",
+        "cosseno": 0.0,
+        "jaccard": 0.0125,
+        "semantic": 0.0,
+        "tempo": 0.052416500002436806,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_02",
+        "category": "paraphrase_heavy",
+        "cosseno": 0.0,
+        "jaccard": 0.0125,
+        "semantic": 0.0,
+        "tempo": 0.049378299998352304,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_02",
+        "category": "paraphrase_heavy",
+        "cosseno": 0.0,
+        "jaccard": 0.0,
+        "semantic": 0.0,
+        "tempo": 0.05860419999953592,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_02",
+        "category": "paraphrase_heavy",
+        "cosseno": 0.0,
+        "jaccard": 0.08235294117647059,
+        "semantic": 0.0,
+        "tempo": 0.05283369999960996,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_02",
+        "category": "paraphrase_heavy",
+        "cosseno": 0.0,
+        "jaccard": 0.08536585365853659,
+        "semantic": 0.0,
+        "tempo": 0.05757179999636719,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_02",
+        "category": "paraphrase_heavy",
+        "cosseno": 0.0,
+        "jaccard": 0.0,
+        "semantic": 0.0,
+        "tempo": 0.0568450999999186,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_02",
+        "category": "paraphrase_heavy",
+        "cosseno": 0.0,
+        "jaccard": 0.0,
+        "semantic": 0.0,
+        "tempo": 0.06171579999499954,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_02",
+        "category": "paraphrase_heavy",
+        "cosseno": 0.0,
+        "jaccard": 0.010638297872340425,
+        "semantic": 0.0,
+        "tempo": 0.058731899996928405,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_02",
+        "category": "paraphrase_heavy",
+        "cosseno": 0.0,
+        "jaccard": 0.08536585365853659,
+        "semantic": 0.0,
+        "tempo": 0.053921300001093186,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_02",
+        "category": "paraphrase_heavy",
+        "cosseno": 0.0,
+        "jaccard": 0.0125,
+        "semantic": 0.0,
+        "tempo": 0.050307299999985844,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_02",
+        "category": "paraphrase_heavy",
+        "cosseno": 0.0,
+        "jaccard": 0.0,
+        "semantic": 0.0,
+        "tempo": 0.0528000999984215,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_02",
+        "category": "paraphrase_heavy",
+        "cosseno": 0.0,
+        "jaccard": 0.08235294117647059,
+        "semantic": 0.0,
+        "tempo": 0.04590819999430096,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_02",
+        "category": "paraphrase_heavy",
+        "cosseno": 0.0,
+        "jaccard": 0.0,
+        "semantic": 0.0,
+        "tempo": 0.05338570000458276,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_02",
+        "category": "paraphrase_heavy",
+        "cosseno": 0.0,
+        "jaccard": 0.08235294117647059,
+        "semantic": 0.0,
+        "tempo": 0.049404999997932464,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_02",
+        "category": "paraphrase_heavy",
+        "cosseno": 0.0,
+        "jaccard": 0.08536585365853659,
+        "semantic": 0.0,
+        "tempo": 0.0501767000023392,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_02",
+        "category": "paraphrase_heavy",
+        "cosseno": 0.0,
+        "jaccard": 0.08536585365853659,
+        "semantic": 0.0,
+        "tempo": 0.050652500001888257,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_02",
+        "category": "paraphrase_heavy",
+        "cosseno": 0.0,
+        "jaccard": 0.08536585365853659,
+        "semantic": 0.0,
+        "tempo": 0.050132700001995545,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_02",
+        "category": "paraphrase_heavy",
+        "cosseno": 0.0,
+        "jaccard": 0.0125,
+        "semantic": 0.0,
+        "tempo": 0.05020159999548923,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_02",
+        "category": "paraphrase_heavy",
+        "cosseno": 0.0,
+        "jaccard": 0.0125,
+        "semantic": 0.0,
+        "tempo": 0.0499236000032397,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_02",
+        "category": "paraphrase_heavy",
+        "cosseno": 0.0,
+        "jaccard": 0.010638297872340425,
+        "semantic": 0.0,
+        "tempo": 0.059055899997474626,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_02",
+        "category": "paraphrase_heavy",
+        "cosseno": 0.0,
+        "jaccard": 0.08235294117647059,
+        "semantic": 0.0,
+        "tempo": 0.051852800002961885,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_02",
+        "category": "paraphrase_heavy",
+        "cosseno": 0.0,
+        "jaccard": 0.08235294117647059,
+        "semantic": 0.0,
+        "tempo": 0.04894780000176979,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_02",
+        "category": "paraphrase_heavy",
+        "cosseno": 0.0,
+        "jaccard": 0.0,
+        "semantic": 0.0,
+        "tempo": 0.059658699996361975,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_02",
+        "category": "paraphrase_heavy",
+        "cosseno": 0.0,
+        "jaccard": 0.0,
+        "semantic": 0.0,
+        "tempo": 0.05977590000111377,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_02",
+        "category": "paraphrase_heavy",
+        "cosseno": 0.0,
+        "jaccard": 0.08235294117647059,
+        "semantic": 0.0,
+        "tempo": 0.05132919999596197,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_02",
+        "category": "paraphrase_heavy",
+        "cosseno": 0.0,
+        "jaccard": 0.0125,
+        "semantic": 0.0,
+        "tempo": 0.05468129999644589,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_02",
+        "category": "paraphrase_heavy",
+        "cosseno": 0.0,
+        "jaccard": 0.0,
+        "semantic": 0.0,
+        "tempo": 0.05277770000247983,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_02",
+        "category": "paraphrase_heavy",
+        "cosseno": 0.0,
+        "jaccard": 0.0125,
+        "semantic": 0.0,
+        "tempo": 0.04950339999777498,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_02",
+        "category": "paraphrase_heavy",
+        "cosseno": 0.0,
+        "jaccard": 0.08235294117647059,
+        "semantic": 0.0,
+        "tempo": 0.04594799999904353,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_02",
+        "category": "paraphrase_heavy",
+        "cosseno": 0.0,
+        "jaccard": 0.08235294117647059,
+        "semantic": 0.0,
+        "tempo": 0.04593869999371236,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_02",
+        "category": "paraphrase_heavy",
+        "cosseno": 0.0,
+        "jaccard": 0.010638297872340425,
+        "semantic": 0.0,
+        "tempo": 0.05254550000245217,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_02",
+        "category": "paraphrase_heavy",
+        "cosseno": 0.0,
+        "jaccard": 0.0125,
+        "semantic": 0.0,
+        "tempo": 0.049346799998602364,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_03",
+        "category": "paraphrase_light",
+        "cosseno": 1.0000000000000002,
+        "jaccard": 0.6666666666666666,
+        "semantic": 0.0,
+        "tempo": 0.06299749999743653,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_03",
+        "category": "paraphrase_light",
+        "cosseno": 0.0,
+        "jaccard": 0.4642857142857143,
+        "semantic": 0.0,
+        "tempo": 0.05669559999660123,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_03",
+        "category": "paraphrase_light",
+        "cosseno": 0.0,
+        "jaccard": 0.4533333333333333,
+        "semantic": 0.0,
+        "tempo": 0.06668099999660626,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_03",
+        "category": "paraphrase_light",
+        "cosseno": 0.0,
+        "jaccard": 0.4642857142857143,
+        "semantic": 0.0,
+        "tempo": 0.05505080000148155,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_03",
+        "category": "paraphrase_light",
+        "cosseno": 0.0,
+        "jaccard": 0.4533333333333333,
+        "semantic": 0.0,
+        "tempo": 0.06884230000287062,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_03",
+        "category": "paraphrase_light",
+        "cosseno": 0.0,
+        "jaccard": 0.576271186440678,
+        "semantic": 0.0,
+        "tempo": 0.0652665999950841,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_03",
+        "category": "paraphrase_light",
+        "cosseno": 0.0,
+        "jaccard": 0.8,
+        "semantic": 0.0,
+        "tempo": 0.057768500002566725,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_03",
+        "category": "paraphrase_light",
+        "cosseno": 0.0,
+        "jaccard": 0.8,
+        "semantic": 0.0,
+        "tempo": 0.05697629999485798,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_03",
+        "category": "paraphrase_light",
+        "cosseno": 0.0,
+        "jaccard": 0.8,
+        "semantic": 0.0,
+        "tempo": 0.061334900005022064,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_03",
+        "category": "paraphrase_light",
+        "cosseno": 1.0000000000000002,
+        "jaccard": 0.6666666666666666,
+        "semantic": 0.0,
+        "tempo": 0.06322300000465475,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_03",
+        "category": "paraphrase_light",
+        "cosseno": 0.0,
+        "jaccard": 0.8,
+        "semantic": 0.0,
+        "tempo": 0.055726600003254134,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_03",
+        "category": "paraphrase_light",
+        "cosseno": 0.0,
+        "jaccard": 0.4642857142857143,
+        "semantic": 0.0,
+        "tempo": 0.05567400000290945,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_03",
+        "category": "paraphrase_light",
+        "cosseno": 0.0,
+        "jaccard": 0.4642857142857143,
+        "semantic": 0.0,
+        "tempo": 0.05347790000087116,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_03",
+        "category": "paraphrase_light",
+        "cosseno": 0.0,
+        "jaccard": 0.4533333333333333,
+        "semantic": 0.0,
+        "tempo": 0.06385120000049938,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_03",
+        "category": "paraphrase_light",
+        "cosseno": 0.0,
+        "jaccard": 0.576271186440678,
+        "semantic": 0.0,
+        "tempo": 0.05748469999525696,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_03",
+        "category": "paraphrase_light",
+        "cosseno": 0.0,
+        "jaccard": 0.4533333333333333,
+        "semantic": 0.0,
+        "tempo": 0.06258379999781027,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_03",
+        "category": "paraphrase_light",
+        "cosseno": 1.0000000000000002,
+        "jaccard": 0.6666666666666666,
+        "semantic": 0.0,
+        "tempo": 0.060389599995687604,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_03",
+        "category": "paraphrase_light",
+        "cosseno": 0.0,
+        "jaccard": 0.4533333333333333,
+        "semantic": 0.0,
+        "tempo": 0.06522810000024037,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_03",
+        "category": "paraphrase_light",
+        "cosseno": 0.0,
+        "jaccard": 0.4642857142857143,
+        "semantic": 0.0,
+        "tempo": 0.057127499996568076,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_03",
+        "category": "paraphrase_light",
+        "cosseno": 1.0000000000000002,
+        "jaccard": 0.6666666666666666,
+        "semantic": 0.0,
+        "tempo": 0.06529719999525696,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_03",
+        "category": "paraphrase_light",
+        "cosseno": 0.0,
+        "jaccard": 0.4533333333333333,
+        "semantic": 0.0,
+        "tempo": 0.06985990000248421,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_03",
+        "category": "paraphrase_light",
+        "cosseno": 0.0,
+        "jaccard": 0.4642857142857143,
+        "semantic": 0.0,
+        "tempo": 0.0584311999991769,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_03",
+        "category": "paraphrase_light",
+        "cosseno": 0.0,
+        "jaccard": 0.8,
+        "semantic": 0.0,
+        "tempo": 0.059174799993343186,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_03",
+        "category": "paraphrase_light",
+        "cosseno": 0.0,
+        "jaccard": 0.8,
+        "semantic": 0.0,
+        "tempo": 0.06030070000269916,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_03",
+        "category": "paraphrase_light",
+        "cosseno": 0.0,
+        "jaccard": 0.4533333333333333,
+        "semantic": 0.0,
+        "tempo": 0.06756589999713469,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_03",
+        "category": "paraphrase_light",
+        "cosseno": 0.0,
+        "jaccard": 0.576271186440678,
+        "semantic": 0.0,
+        "tempo": 0.056951599995954894,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_03",
+        "category": "paraphrase_light",
+        "cosseno": 0.0,
+        "jaccard": 0.8,
+        "semantic": 0.0,
+        "tempo": 0.056077200002619065,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_03",
+        "category": "paraphrase_light",
+        "cosseno": 0.0,
+        "jaccard": 0.8,
+        "semantic": 0.0,
+        "tempo": 0.05669510000006994,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_03",
+        "category": "paraphrase_light",
+        "cosseno": 0.0,
+        "jaccard": 0.4642857142857143,
+        "semantic": 0.0,
+        "tempo": 0.05811790000007022,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_03",
+        "category": "paraphrase_light",
+        "cosseno": 0.0,
+        "jaccard": 0.4642857142857143,
+        "semantic": 0.0,
+        "tempo": 0.0527280999958748,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_03",
+        "category": "paraphrase_light",
+        "cosseno": 0.0,
+        "jaccard": 0.8,
+        "semantic": 0.0,
+        "tempo": 0.05267499999899883,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_03",
+        "category": "paraphrase_light",
+        "cosseno": 0.0,
+        "jaccard": 0.4642857142857143,
+        "semantic": 0.0,
+        "tempo": 0.05298769999353681,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_03",
+        "category": "paraphrase_light",
+        "cosseno": 0.0,
+        "jaccard": 0.8,
+        "semantic": 0.0,
+        "tempo": 0.09706349999760278,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_03",
+        "category": "paraphrase_light",
+        "cosseno": 1.0000000000000002,
+        "jaccard": 0.6666666666666666,
+        "semantic": 0.0,
+        "tempo": 0.06807380000100238,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_03",
+        "category": "paraphrase_light",
+        "cosseno": 0.0,
+        "jaccard": 0.4533333333333333,
+        "semantic": 0.0,
+        "tempo": 0.06667610000295099,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_03",
+        "category": "paraphrase_light",
+        "cosseno": 0.0,
+        "jaccard": 0.4533333333333333,
+        "semantic": 0.0,
+        "tempo": 0.06892039999365807,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_03",
+        "category": "paraphrase_light",
+        "cosseno": 0.0,
+        "jaccard": 0.576271186440678,
+        "semantic": 0.0,
+        "tempo": 0.0663635000018985,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_03",
+        "category": "paraphrase_light",
+        "cosseno": 0.0,
+        "jaccard": 0.576271186440678,
+        "semantic": 0.0,
+        "tempo": 0.06519810000463622,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_03",
+        "category": "paraphrase_light",
+        "cosseno": 0.0,
+        "jaccard": 0.576271186440678,
+        "semantic": 0.0,
+        "tempo": 0.06182229999831179,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_03",
+        "category": "paraphrase_light",
+        "cosseno": 0.0,
+        "jaccard": 0.576271186440678,
+        "semantic": 0.0,
+        "tempo": 0.061825700002373196,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_03",
+        "category": "paraphrase_light",
+        "cosseno": 0.0,
+        "jaccard": 0.4533333333333333,
+        "semantic": 0.0,
+        "tempo": 0.059897999999520835,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_03",
+        "category": "paraphrase_light",
+        "cosseno": 0.0,
+        "jaccard": 0.4533333333333333,
+        "semantic": 0.0,
+        "tempo": 0.062484000001859386,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_03",
+        "category": "paraphrase_light",
+        "cosseno": 0.0,
+        "jaccard": 0.8,
+        "semantic": 0.0,
+        "tempo": 0.05236760000116192,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_03",
+        "category": "paraphrase_light",
+        "cosseno": 0.0,
+        "jaccard": 0.576271186440678,
+        "semantic": 0.0,
+        "tempo": 0.061160799996287096,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_03",
+        "category": "paraphrase_light",
+        "cosseno": 0.0,
+        "jaccard": 0.8,
+        "semantic": 0.0,
+        "tempo": 0.05598640000243904,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_03",
+        "category": "paraphrase_light",
+        "cosseno": 0.0,
+        "jaccard": 0.576271186440678,
+        "semantic": 0.0,
+        "tempo": 0.057337700003699865,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_03",
+        "category": "paraphrase_light",
+        "cosseno": 0.0,
+        "jaccard": 0.4533333333333333,
+        "semantic": 0.0,
+        "tempo": 0.06355410000105621,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_03",
+        "category": "paraphrase_light",
+        "cosseno": 1.0000000000000002,
+        "jaccard": 0.6666666666666666,
+        "semantic": 0.0,
+        "tempo": 0.0668431000012788,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_03",
+        "category": "paraphrase_light",
+        "cosseno": 0.0,
+        "jaccard": 0.4533333333333333,
+        "semantic": 0.0,
+        "tempo": 0.07032780000008643,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_03",
+        "category": "paraphrase_light",
+        "cosseno": 0.0,
+        "jaccard": 0.8,
+        "semantic": 0.0,
+        "tempo": 0.059595200000330806,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_04",
+        "category": "paraphrase_medium",
+        "cosseno": 0.0,
+        "jaccard": 0.7959183673469388,
+        "semantic": 0.0,
+        "tempo": 0.05166319999989355,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_04",
+        "category": "paraphrase_medium",
+        "cosseno": 0.0,
+        "jaccard": 0.6949152542372882,
+        "semantic": 0.0,
+        "tempo": 0.05553479999798583,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_04",
+        "category": "paraphrase_medium",
+        "cosseno": 1.0000000000000002,
+        "jaccard": 0.7592592592592593,
+        "semantic": 0.0,
+        "tempo": 0.058877099996607285,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_04",
+        "category": "paraphrase_medium",
+        "cosseno": 0.0,
+        "jaccard": 0.6666666666666666,
+        "semantic": 0.0,
+        "tempo": 0.05882250000286149,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_04",
+        "category": "paraphrase_medium",
+        "cosseno": 0.0,
+        "jaccard": 0.7241379310344828,
+        "semantic": 0.0,
+        "tempo": 0.06021570000302745,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_04",
+        "category": "paraphrase_medium",
+        "cosseno": 0.0,
+        "jaccard": 0.782608695652174,
+        "semantic": 0.0,
+        "tempo": 0.0531736999982968,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_04",
+        "category": "paraphrase_medium",
+        "cosseno": 1.0000000000000002,
+        "jaccard": 0.7735849056603774,
+        "semantic": 0.0,
+        "tempo": 0.05205550000391668,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_04",
+        "category": "paraphrase_medium",
+        "cosseno": 0.0,
+        "jaccard": 0.9069767441860465,
+        "semantic": 0.0,
+        "tempo": 0.05359429999953136,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_04",
+        "category": "paraphrase_medium",
+        "cosseno": 1.0000000000000002,
+        "jaccard": 0.7407407407407407,
+        "semantic": 0.0,
+        "tempo": 0.05576899999869056,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_04",
+        "category": "paraphrase_medium",
+        "cosseno": 0.0,
+        "jaccard": 0.7837837837837838,
+        "semantic": 0.0,
+        "tempo": 0.04170270000031451,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_04",
+        "category": "paraphrase_medium",
+        "cosseno": 0.0,
+        "jaccard": 0.6666666666666666,
+        "semantic": 0.0,
+        "tempo": 0.05416289999993751,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_04",
+        "category": "paraphrase_medium",
+        "cosseno": 1.0000000000000002,
+        "jaccard": 0.7592592592592593,
+        "semantic": 0.0,
+        "tempo": 0.05531129999872064,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_04",
+        "category": "paraphrase_medium",
+        "cosseno": 0.0,
+        "jaccard": 0.8857142857142857,
+        "semantic": 0.0,
+        "tempo": 0.0409529999960796,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_04",
+        "category": "paraphrase_medium",
+        "cosseno": 0.0,
+        "jaccard": 0.74,
+        "semantic": 0.0,
+        "tempo": 0.050520199998572934,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_04",
+        "category": "paraphrase_medium",
+        "cosseno": 0.0,
+        "jaccard": 0.7241379310344828,
+        "semantic": 0.0,
+        "tempo": 0.05887549999897601,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_04",
+        "category": "paraphrase_medium",
+        "cosseno": 0.0,
+        "jaccard": 0.7241379310344828,
+        "semantic": 0.0,
+        "tempo": 0.056554000002506655,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_04",
+        "category": "paraphrase_medium",
+        "cosseno": 0.0,
+        "jaccard": 0.7959183673469388,
+        "semantic": 0.0,
+        "tempo": 0.04990930000349181,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_04",
+        "category": "paraphrase_medium",
+        "cosseno": 0.0,
+        "jaccard": 1.0,
+        "semantic": 0.0,
+        "tempo": 0.04693009999755304,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_04",
+        "category": "paraphrase_medium",
+        "cosseno": 0.0,
+        "jaccard": 0.6949152542372882,
+        "semantic": 0.0,
+        "tempo": 0.05897949999780394,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_04",
+        "category": "paraphrase_medium",
+        "cosseno": 0.0,
+        "jaccard": 0.8333333333333334,
+        "semantic": 0.0,
+        "tempo": 0.04761680000228807,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_04",
+        "category": "paraphrase_medium",
+        "cosseno": 0.0,
+        "jaccard": 0.6666666666666666,
+        "semantic": 0.0,
+        "tempo": 0.05713560000003781,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_04",
+        "category": "paraphrase_medium",
+        "cosseno": 0.0,
+        "jaccard": 0.76,
+        "semantic": 0.0,
+        "tempo": 0.05181029999948805,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_04",
+        "category": "paraphrase_medium",
+        "cosseno": 0.0,
+        "jaccard": 1.0,
+        "semantic": 0.0,
+        "tempo": 0.04106020000472199,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_04",
+        "category": "paraphrase_medium",
+        "cosseno": 0.0,
+        "jaccard": 0.8333333333333334,
+        "semantic": 0.0,
+        "tempo": 0.04911069999798201,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_04",
+        "category": "paraphrase_medium",
+        "cosseno": 0.0,
+        "jaccard": 0.8723404255319149,
+        "semantic": 0.0,
+        "tempo": 0.04895029999897815,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_04",
+        "category": "paraphrase_medium",
+        "cosseno": 0.0,
+        "jaccard": 0.7368421052631579,
+        "semantic": 0.0,
+        "tempo": 0.04108009999617934,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_04",
+        "category": "paraphrase_medium",
+        "cosseno": 0.0,
+        "jaccard": 0.7083333333333334,
+        "semantic": 0.0,
+        "tempo": 0.052271599997766316,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_04",
+        "category": "paraphrase_medium",
+        "cosseno": 0.0,
+        "jaccard": 0.76,
+        "semantic": 0.0,
+        "tempo": 0.0491492000001017,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_04",
+        "category": "paraphrase_medium",
+        "cosseno": 0.0,
+        "jaccard": 0.7254901960784313,
+        "semantic": 0.0,
+        "tempo": 0.04622930000186898,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_04",
+        "category": "paraphrase_medium",
+        "cosseno": 0.0,
+        "jaccard": 0.6779661016949152,
+        "semantic": 0.0,
+        "tempo": 0.05502169999817852,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_04",
+        "category": "paraphrase_medium",
+        "cosseno": 0.0,
+        "jaccard": 0.7083333333333334,
+        "semantic": 0.0,
+        "tempo": 0.051165899996703956,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_04",
+        "category": "paraphrase_medium",
+        "cosseno": 1.0000000000000002,
+        "jaccard": 0.7272727272727273,
+        "semantic": 0.0,
+        "tempo": 0.059048100003565196,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_04",
+        "category": "paraphrase_medium",
+        "cosseno": 0.0,
+        "jaccard": 0.6949152542372882,
+        "semantic": 0.0,
+        "tempo": 0.06029580000176793,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_04",
+        "category": "paraphrase_medium",
+        "cosseno": 0.0,
+        "jaccard": 0.7543859649122807,
+        "semantic": 0.0,
+        "tempo": 0.05640349999885075,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_04",
+        "category": "paraphrase_medium",
+        "cosseno": 0.0,
+        "jaccard": 0.7083333333333334,
+        "semantic": 0.0,
+        "tempo": 0.0573249000008218,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_04",
+        "category": "paraphrase_medium",
+        "cosseno": 0.0,
+        "jaccard": 0.7837837837837838,
+        "semantic": 0.0,
+        "tempo": 0.045414600004733074,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_04",
+        "category": "paraphrase_medium",
+        "cosseno": 0.0,
+        "jaccard": 0.8636363636363636,
+        "semantic": 0.0,
+        "tempo": 0.05574760000308743,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_04",
+        "category": "paraphrase_medium",
+        "cosseno": 0.0,
+        "jaccard": 0.7368421052631579,
+        "semantic": 0.0,
+        "tempo": 0.045804000001226086,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_04",
+        "category": "paraphrase_medium",
+        "cosseno": 0.0,
+        "jaccard": 0.7959183673469388,
+        "semantic": 0.0,
+        "tempo": 0.054714800004148856,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_04",
+        "category": "paraphrase_medium",
+        "cosseno": 0.0,
+        "jaccard": 0.782608695652174,
+        "semantic": 0.0,
+        "tempo": 0.05305230000521988,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_04",
+        "category": "paraphrase_medium",
+        "cosseno": 0.0,
+        "jaccard": 0.74,
+        "semantic": 0.0,
+        "tempo": 0.04563090000010561,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_04",
+        "category": "paraphrase_medium",
+        "cosseno": 0.0,
+        "jaccard": 0.6779661016949152,
+        "semantic": 0.0,
+        "tempo": 0.05639019999944139,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_04",
+        "category": "paraphrase_medium",
+        "cosseno": 0.0,
+        "jaccard": 0.7959183673469388,
+        "semantic": 0.0,
+        "tempo": 0.04937039999640547,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_04",
+        "category": "paraphrase_medium",
+        "cosseno": 1.0000000000000002,
+        "jaccard": 0.7592592592592593,
+        "semantic": 0.0,
+        "tempo": 0.055787400000554044,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_04",
+        "category": "paraphrase_medium",
+        "cosseno": 0.0,
+        "jaccard": 0.782608695652174,
+        "semantic": 0.0,
+        "tempo": 0.05329630000051111,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_04",
+        "category": "paraphrase_medium",
+        "cosseno": 0.0,
+        "jaccard": 0.74,
+        "semantic": 0.0,
+        "tempo": 0.046150599999236874,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_04",
+        "category": "paraphrase_medium",
+        "cosseno": 0.0,
+        "jaccard": 0.6949152542372882,
+        "semantic": 0.0,
+        "tempo": 0.05498570000054315,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_04",
+        "category": "paraphrase_medium",
+        "cosseno": 0.0,
+        "jaccard": 0.7837837837837838,
+        "semantic": 0.0,
+        "tempo": 0.0423674999983632,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_04",
+        "category": "paraphrase_medium",
+        "cosseno": 0.0,
+        "jaccard": 0.7959183673469388,
+        "semantic": 0.0,
+        "tempo": 0.05379779999930179,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_04",
+        "category": "paraphrase_medium",
+        "cosseno": 0.0,
+        "jaccard": 0.7446808510638298,
+        "semantic": 0.0,
+        "tempo": 0.05664209999667946,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_05",
+        "category": "unrelated",
+        "cosseno": 0.0,
+        "jaccard": 0.0273972602739726,
+        "semantic": 0.0,
+        "tempo": 0.056201100000180304,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_05",
+        "category": "unrelated",
+        "cosseno": 0.0,
+        "jaccard": 0.0,
+        "semantic": 0.0,
+        "tempo": 0.05235109999921406,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_05",
+        "category": "unrelated",
+        "cosseno": 0.0,
+        "jaccard": 0.0273972602739726,
+        "semantic": 0.0,
+        "tempo": 0.05646790000173496,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_05",
+        "category": "unrelated",
+        "cosseno": 0.0,
+        "jaccard": 0.0,
+        "semantic": 0.0,
+        "tempo": 0.051940000004833564,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_05",
+        "category": "unrelated",
+        "cosseno": 0.0,
+        "jaccard": 0.0,
+        "semantic": 0.0,
+        "tempo": 0.056597599999804515,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_05",
+        "category": "unrelated",
+        "cosseno": 0.0,
+        "jaccard": 0.08,
+        "semantic": 0.0,
+        "tempo": 0.04994340000121156,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_05",
+        "category": "unrelated",
+        "cosseno": 0.0,
+        "jaccard": 0.03614457831325301,
+        "semantic": 0.0,
+        "tempo": 0.05343259999790462,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_05",
+        "category": "unrelated",
+        "cosseno": 0.0,
+        "jaccard": 0.0,
+        "semantic": 0.0,
+        "tempo": 0.056360800001129974,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_05",
+        "category": "unrelated",
+        "cosseno": 0.0,
+        "jaccard": 0.024390243902439025,
+        "semantic": 0.0,
+        "tempo": 0.05542229999991832,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_05",
+        "category": "unrelated",
+        "cosseno": 0.0,
+        "jaccard": 0.011363636363636364,
+        "semantic": 0.0,
+        "tempo": 0.05262349999975413,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_05",
+        "category": "unrelated",
+        "cosseno": 0.0,
+        "jaccard": 0.0273972602739726,
+        "semantic": 0.0,
+        "tempo": 0.049908399996638764,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_05",
+        "category": "unrelated",
+        "cosseno": 0.0,
+        "jaccard": 0.07407407407407407,
+        "semantic": 0.0,
+        "tempo": 0.052919800000381656,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_05",
+        "category": "unrelated",
+        "cosseno": 0.0,
+        "jaccard": 0.07407407407407407,
+        "semantic": 0.0,
+        "tempo": 0.05596990000049118,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_05",
+        "category": "unrelated",
+        "cosseno": 0.0,
+        "jaccard": 0.08536585365853659,
+        "semantic": 0.0,
+        "tempo": 0.05252160000236472,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_05",
+        "category": "unrelated",
+        "cosseno": 0.0,
+        "jaccard": 0.0,
+        "semantic": 0.0,
+        "tempo": 0.11635910000040894,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_05",
+        "category": "unrelated",
+        "cosseno": 0.0,
+        "jaccard": 0.03614457831325301,
+        "semantic": 0.0,
+        "tempo": 0.05511629999818979,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_05",
+        "category": "unrelated",
+        "cosseno": 0.0,
+        "jaccard": 0.08,
+        "semantic": 0.0,
+        "tempo": 0.05242989999533165,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_05",
+        "category": "unrelated",
+        "cosseno": 0.0,
+        "jaccard": 0.014492753623188406,
+        "semantic": 0.0,
+        "tempo": 0.046679999999469146,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_05",
+        "category": "unrelated",
+        "cosseno": 0.0,
+        "jaccard": 0.012658227848101266,
+        "semantic": 0.0,
+        "tempo": 0.058753400000568945,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_05",
+        "category": "unrelated",
+        "cosseno": 0.0,
+        "jaccard": 0.07407407407407407,
+        "semantic": 0.0,
+        "tempo": 0.05603320000227541,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_05",
+        "category": "unrelated",
+        "cosseno": 0.0,
+        "jaccard": 0.0,
+        "semantic": 0.0,
+        "tempo": 0.05581510000047274,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_05",
+        "category": "unrelated",
+        "cosseno": 0.0,
+        "jaccard": 0.0,
+        "semantic": 0.0,
+        "tempo": 0.05423699999664677,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_05",
+        "category": "unrelated",
+        "cosseno": 0.0,
+        "jaccard": 0.03614457831325301,
+        "semantic": 0.0,
+        "tempo": 0.05799700000352459,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_05",
+        "category": "unrelated",
+        "cosseno": 0.0,
+        "jaccard": 0.0375,
+        "semantic": 0.0,
+        "tempo": 0.060188099996594246,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_05",
+        "category": "unrelated",
+        "cosseno": 0.0,
+        "jaccard": 0.011363636363636364,
+        "semantic": 0.0,
+        "tempo": 0.05284110000502551,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_05",
+        "category": "unrelated",
+        "cosseno": 0.0,
+        "jaccard": 0.0,
+        "semantic": 0.0,
+        "tempo": 0.04628140000568237,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_05",
+        "category": "unrelated",
+        "cosseno": 0.0,
+        "jaccard": 0.0,
+        "semantic": 0.0,
+        "tempo": 0.05533570000261534,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_05",
+        "category": "unrelated",
+        "cosseno": 0.0,
+        "jaccard": 0.07407407407407407,
+        "semantic": 0.0,
+        "tempo": 0.053358699995442294,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_05",
+        "category": "unrelated",
+        "cosseno": 0.0,
+        "jaccard": 0.0,
+        "semantic": 0.0,
+        "tempo": 0.05066839999926742,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_05",
+        "category": "unrelated",
+        "cosseno": 0.0,
+        "jaccard": 0.011627906976744186,
+        "semantic": 0.0,
+        "tempo": 0.052278700000897516,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_05",
+        "category": "unrelated",
+        "cosseno": 0.0,
+        "jaccard": 0.01098901098901099,
+        "semantic": 0.0,
+        "tempo": 0.056609400002344046,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_05",
+        "category": "unrelated",
+        "cosseno": 0.0,
+        "jaccard": 0.0273972602739726,
+        "semantic": 0.0,
+        "tempo": 0.057158400006301235,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_05",
+        "category": "unrelated",
+        "cosseno": 0.0,
+        "jaccard": 0.011627906976744186,
+        "semantic": 0.0,
+        "tempo": 0.05909100000280887,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_05",
+        "category": "unrelated",
+        "cosseno": 0.0,
+        "jaccard": 0.0,
+        "semantic": 0.0,
+        "tempo": 0.05062229999748524,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_05",
+        "category": "unrelated",
+        "cosseno": 0.0,
+        "jaccard": 0.014492753623188406,
+        "semantic": 0.0,
+        "tempo": 0.05118899999797577,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_05",
+        "category": "unrelated",
+        "cosseno": 0.0,
+        "jaccard": 0.0273972602739726,
+        "semantic": 0.0,
+        "tempo": 0.053498599998420104,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_05",
+        "category": "unrelated",
+        "cosseno": 0.0,
+        "jaccard": 0.011363636363636364,
+        "semantic": 0.0,
+        "tempo": 0.057822000002488494,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_05",
+        "category": "unrelated",
+        "cosseno": 0.0,
+        "jaccard": 0.037037037037037035,
+        "semantic": 0.0,
+        "tempo": 0.060681700000714045,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_05",
+        "category": "unrelated",
+        "cosseno": 0.0,
+        "jaccard": 0.03614457831325301,
+        "semantic": 0.0,
+        "tempo": 0.05721149999590125,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_05",
+        "category": "unrelated",
+        "cosseno": 0.0,
+        "jaccard": 0.011627906976744186,
+        "semantic": 0.0,
+        "tempo": 0.05592140000226209,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_05",
+        "category": "unrelated",
+        "cosseno": 0.0,
+        "jaccard": 0.014492753623188406,
+        "semantic": 0.0,
+        "tempo": 0.048185699997702613,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_05",
+        "category": "unrelated",
+        "cosseno": 0.0,
+        "jaccard": 0.08,
+        "semantic": 0.0,
+        "tempo": 0.046902900001441594,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_05",
+        "category": "unrelated",
+        "cosseno": 0.0,
+        "jaccard": 0.08,
+        "semantic": 0.0,
+        "tempo": 0.049578999998630024,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_05",
+        "category": "unrelated",
+        "cosseno": 0.0,
+        "jaccard": 0.0,
+        "semantic": 0.0,
+        "tempo": 0.05555189999722643,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_05",
+        "category": "unrelated",
+        "cosseno": 0.0,
+        "jaccard": 0.011627906976744186,
+        "semantic": 0.0,
+        "tempo": 0.056643500000063796,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_05",
+        "category": "unrelated",
+        "cosseno": 0.0,
+        "jaccard": 0.0,
+        "semantic": 0.0,
+        "tempo": 0.04622590000508353,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_05",
+        "category": "unrelated",
+        "cosseno": 0.0,
+        "jaccard": 0.011627906976744186,
+        "semantic": 0.0,
+        "tempo": 0.055109500004618894,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_05",
+        "category": "unrelated",
+        "cosseno": 0.0,
+        "jaccard": 0.037037037037037035,
+        "semantic": 0.0,
+        "tempo": 0.05763250000018161,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_05",
+        "category": "unrelated",
+        "cosseno": 0.0,
+        "jaccard": 0.0,
+        "semantic": 0.0,
+        "tempo": 0.04615360000025248,
+        "memoria_mb": 0.0,
+        "status": "success"
+    },
+    {
+        "benchmark": "benchmark_05",
+        "category": "unrelated",
+        "cosseno": 0.0,
+        "jaccard": 0.012658227848101266,
+        "semantic": 0.0,
+        "tempo": 0.05682829999568639,
+        "memoria_mb": 0.0,
+        "status": "success"
+    }
+]

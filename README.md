@@ -1,59 +1,244 @@
-Este repositório contém um **Sistema de Comparação de Conteúdo de Textos**, desenvolvido como parte integrante do meu Trabalho de Conclusão de Curso (TCC). 
+# Sistema Computacional de Auditoria Textual
 
-O sistema automatiza a verificação de integridade e originalidade de documentos acadêmicos através de modelos vetoriais.
+Este repositório contém um **Sistema Computacional de Auditoria Textual**, desenvolvido como parte integrante do Trabalho de Conclusão de Curso (TCC).
 
----
+O sistema automatiza a análise de similaridade textual entre documentos acadêmicos utilizando uma abordagem híbrida baseada em:
 
-## Fundamentação
+* Processamento de Linguagem Natural (PLN)
+* Modelos Vetoriais TF-IDF
+* Similaridade de Cosseno
+* Índice de Jaccard
+* Sentence Embeddings
+* Pipeline Modular de Processamento
+* Estratégias Analíticas Híbridas
 
-* **2.1 PLN e Normalização:** Compreende processos como *lowercase*, remoção de *stopwords* e tokenização para reduzir o ruído nos modelos vetoriais.
-* **2.2 Modelo Vetorial e TF-IDF:** O TF-IDF permite identificar palavras-chave com alto poder discriminatório, mitigando a influência de termos onipresentes.
-* **2.3 Métricas de Similaridade:**
-    * **Similitude de Cosseno:** Foca na orientação dos vetores (tema), sendo ideal para comparar textos de tamanhos diferentes.
-    * **Índice de Jaccard e *N-grams*:** Foca na forma e na escrita, identificando variações ortográficas e paráfrases próximas.
-* **2.4 Padrões de Projeto:** O uso do *Factory Method* garante o desacoplamento entre o formato de origem (PDF, DOCX, TXT) e o motor de processamento.  
----
-
-## Tecnologias e Arquitetura
-
-O projeto foi construído seguindo princípios de **Clean Code** e **Design Patterns**:
-
-* **Linguagem:** Python 3.11+
-* **Interface:** Streamlit (Dashboard de alta usabilidade)
-* **Engine:** Scikit-Learn & NLTK
-* **Design Pattern:** *Factory Method* para ingestão de múltiplos formatos (PDF, DOCX, TXT)
+O objetivo central é identificar níveis de similaridade textual, paráfrases técnicas e potenciais indícios de reaproveitamento de conteúdo acadêmico.
 
 ---
 
-## Estrutura do Repositório
+# Estrutura do Projeto
 
-```text
+```text 
 TCC/
-├── datasets/            # Ambiente de Benchmarks 
-│   ├── benchmark_01/    # Cenário: Divergência Total (Ortogonalidade)
-│   ├── benchmark_02/    # Cenário: Paráfrase Técnica (Âncoras Temáticas)
-│   ├── benchmark_03/    # Cenário: Similaridade Crítica (Alerta de Auditoria)
-│   └── README.md        # Documentação dos datasets
-├── engine/              # sistema analítico
-│   ├── core.py          # vetorização e métricas matemáticas
-│   ├── handlers.py      # Factory Pattern para múltiplos formatos
-│   └── processors.py    # Pipeline de normalização
-├── .gitignore           # ignorados pelo versionamento
-├── main.py              # Streamlit Dashboard
-├── packages.txt         # Gerenciador de dependências 
-├── requirements.txt     # Dependências Python 
-└── README.md            # Documentação do projeto
+├── dataset/
+│   ├── benchmark_01/
+│   ├── benchmark_02/
+│   ├── benchmark_03/
+│   ├── benchmark_04/
+│   └── benchmark_05/
+├── src/
+│   ├── app/
+│   │   └── main.py                 
+│   ├── engine/
+│   │   ├── __init__.py
+│   │   ├── extrator.py             
+│   │   ├── motor.py                
+│   │   └── processadores.py        
+│   └── experimentos/
+│       └── executar.py             
+├── .gitignore
+├── packages.txt
+├── requirements.txt
+└── README.md                      
 ```
 
 ---
 
-**Tabela 1 – Resultados de Similaridade por Caso de Teste**
-| Caso de Teste | Descrição do Cenário | Similitude de Cosseno | Índice de Jaccard |
-| :--- | :--- | :--- | :--- |
-| Teste 01 | Documentos 100% Idênticos | 100,00% | 100,00% |
-| Teste 02 | Paráfrase Técnica | 78,42% | 54,21% |
-| Teste 03 | Temas Distintos | 5,20% | 2,15% |
-*Fonte: Autoria  (2026).*
+# Arquitetura do Sistema
+
+O projeto foi desenvolvido seguindo princípios de:
+
+* Clean Code
+* Modularização
+* Design Patterns
+* Desacoplamento Arquitetural
+* Reprodutibilidade Experimental
+
+---
+
+## Design Patterns Utilizados
+
+### Factory Method
+
+Utilizado na ingestão de múltiplos formatos:
+
+* PDF
+* DOCX
+* TXT
+
+---
+
+### Strategy Pattern
+
+Utilizado na implementação desacoplada das métricas de similaridade:
+
+* Similaridade de Cosseno
+* Índice de Jaccard
+* Embeddings Semânticos
+
+---
+
+# Fundamentação Teórica
+
+## 1. Processamento de Linguagem Natural (PLN)
+
+O sistema utiliza técnicas clássicas de PLN para normalização textual:
+
+* Lowercase
+* Remoção de URLs
+* Remoção de pontuação
+* Remoção de números
+* Stopwords em português
+* Stemming (RSLP Stemmer)
+
+Essas etapas reduzem ruídos linguísticos e aumentam a capacidade discriminatória dos modelos vetoriais.
+
+---
+
+## 2. Modelo Vetorial TF-IDF
+
+O TF-IDF (*Term Frequency – Inverse Document Frequency*) é utilizado para representar documentos em espaço vetorial de alta dimensionalidade.
+
+O modelo privilegia termos com maior poder semântico e reduz o impacto de palavras excessivamente frequentes.
+
+---
+
+## 3. Métricas de Similaridade
+
+### Similaridade de Cosseno
+
+Mede a proximidade angular entre vetores TF-IDF.
+
+Indicada para:
+
+* comparação temática
+* análise semântica superficial
+* documentos de tamanhos diferentes
+
+---
+
+### Índice de Jaccard com N-Grams
+
+Baseado em interseção e união de conjuntos de caracteres.
+
+Indicado para:
+
+* detecção de paráfrases próximas
+* padrões ortográficos
+* reaproveitamento estrutural
+
+---
+
+### Sentence Embeddings
+
+O sistema utiliza:
+
+```text
+sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+```
+
+para captura de similaridade semântica profunda.
+
+Essa abordagem permite identificar:
+
+* equivalência contextual
+* paráfrases complexas
+* semântica implícita
+
+---
+
+## 4. Ensemble Híbrido
+
+O score final combina múltiplas métricas:
+
+```text
+Score Final =
+(0.4 × Cosseno)
++ (0.2 × Jaccard)
++ (0.4 × Embedding)
+```
+
+Essa estratégia híbrida aumenta robustez analítica e reduz falsos positivos.
+
+---
+
+# Tecnologias Utilizadas
+
+| Tecnologia           | Finalidade            |
+| -------------------- | --------------------- |
+| Python 3.11+         | Linguagem principal   |
+| Streamlit            | Dashboard interativo  |
+| Scikit-Learn         | Vetorização TF-IDF    |
+| SentenceTransformers | Embeddings semânticos |
+| NLTK                 | PLN e stemming        |
+| Pandas               | Manipulação analítica |
+| pdfplumber           | Extração PDF          |
+| python-docx          | Extração DOCX         |
+
+---
+
+# Funcionalidades
+
+## Dashboard Interativo
+
+O sistema fornece interface web via Streamlit contendo:
+
+* Upload de documentos
+* Métricas analíticas
+* Classificação automática
+* Visualização de scores
+* Logs técnicos
+* Telemetria computacional
+* Exportação JSON
+
+---
+
+## Pipeline Analítico
+
+Fluxo completo:
+
+```text
+Upload
+   ↓
+Extração textual
+   ↓
+Normalização
+   ↓
+Vetorização TF-IDF
+   ↓
+Cálculo de Similaridade
+   ↓
+Embeddings Semânticos
+   ↓
+Score Híbrido
+   ↓
+Classificação
+```
+
+---
+
+# Benchmark Experimental
+
+O projeto possui ambiente experimental automatizado para execução de benchmarks em larga escala.
+
+Os experimentos permitem:
+
+* validação científica
+* análise estatística
+* comparação entre métricas
+* geração de datasets analíticos
+* exportação CSV/JSON
+
+---
+
+# Classificação Analítica
+
+| Score Final | Classificação         |
+| ----------- | --------------------- |
+| ≥ 0.85      | ALTO RISCO            |
+| ≥ 0.65      | SIMILARIDADE ELEVADA  |
+| ≥ 0.40      | SIMILARIDADE MODERADA |
+| < 0.40      | BAIXA SIMILARIDADE    |
 
 ---
 
@@ -62,3 +247,4 @@ TCC/
 1. **Clone o repositório:**
    ```bash
    git clone [https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git](https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git)
+   ```
