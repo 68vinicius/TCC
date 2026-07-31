@@ -1,0 +1,1 @@
+para utiliza sistema vetorial. representar espaço TF-IDF documentos O em
